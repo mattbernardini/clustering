@@ -1,0 +1,2 @@
+bin_PROGRAMS=janus
+janus_SOURCES=cluster.c

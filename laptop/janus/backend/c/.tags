@@ -1,0 +1,58 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+CLUSTER_H_	cluster.h	13;"	d
+Cluster	cluster.h	/^typedef struct _cluster * Cluster;$/;"	t	typeref:struct:_cluster
+Edge	edge.h	/^typedef struct _edge * Edge;$/;"	t	typeref:struct:_edge
+Node	linked_list.h	/^typedef struct list * Node;$/;"	t	typeref:struct:list
+SRC_C_VMAP_H_	vmap.h	9;"	d
+SRC_EDGE_H_	edge.h	9;"	d
+SRC_LINKED_LIST_H_	linked_list.h	9;"	d
+SRC_VERTEX_H_	vertex.h	12;"	d
+Vertex	vertex.h	/^typedef struct _vertex * Vertex;$/;"	t	typeref:struct:_vertex
+Vmap	vmap.h	/^typedef struct _vmap * Vmap;$/;"	t	typeref:struct:_vmap
+_cluster	cluster.h	/^struct _cluster$/;"	s
+_edge	edge.h	/^struct _edge$/;"	s
+_vertex	vertex.h	/^struct _vertex$/;"	s
+_vmap	vmap.h	/^struct _vmap$/;"	s
+appendNode	linked_list.c	/^Node appendNode(struct list * self, void * data)$/;"	f
+arryLoc	vmap.h	/^	int arryLoc;$/;"	m	struct:_vmap
+baseDensity	cluster.h	/^	floatType baseDensity;$/;"	m	struct:_cluster
+clusterId	vertex.h	/^	int clusterId;$/;"	m	struct:_vertex
+data	linked_list.h	/^	void * data;$/;"	m	struct:list
+deleteNode	linked_list.c	/^Node deleteNode(struct list * self, void * data, bool (*compare_function)(void *, void*))$/;"	f
+densities	cluster.h	/^	floatType * densities;$/;"	m	struct:_cluster
+edges	cluster.h	/^{	std::forward_list<Edge> * edges;$/;"	m	struct:_cluster
+edges	vertex.h	/^	std::forward_list<Edge> edges;$/;"	m	struct:_vertex
+getEdgeWeightTotal	vertex.c	/^float getEdgeWeightTotal (struct _vertex * self)$/;"	f
+getEdgeWeightTotal	vertex.h	/^	float (*getEdgeWeightTotal)(struct _vertex * self);$/;"	m	struct:_vertex
+getLengthOfList	linked_list.c	/^int getLengthOfList(struct list * self)$/;"	f
+getNodeAt	linked_list.c	/^Node getNodeAt(struct list * self, int index)$/;"	f
+getOther	edge.c	/^struct _vertex * getOther(struct _edge * self, struct _vertex * vertex)$/;"	f
+getOther	edge.h	/^	struct _vertex * (*getOther)(struct _edge * self, struct _vertex * vertex);$/;"	m	struct:_edge	typeref:struct:_edge::getOther
+id	cluster.h	/^	int id;$/;"	m	struct:_cluster
+id	edge.c	/^static int id = 0;$/;"	v	file:
+id	edge.h	/^	int id;$/;"	m	struct:_edge
+id	vertex.c	/^static int id = 0;$/;"	v	file:
+id	vertex.h	/^	int id;$/;"	m	struct:_vertex
+id	vmap.h	/^	int id;$/;"	m	struct:_vmap
+id	vmap.h	/^static int id = 0;$/;"	v
+initCluster	cluster.cc	/^Cluster initCluster (Cluster self)$/;"	f
+initEdge	edge.c	/^struct _edge * initEdge($/;"	f
+initVertex	vertex.c	/^struct _vertex * initVertex($/;"	f
+initVmap	vmap.h	/^Vmap initVmap(int arrayLoc, int vertexId)$/;"	f
+label	vertex.h	/^	char * label;$/;"	m	struct:_vertex
+list	linked_list.h	/^struct list {$/;"	s
+mapNum	cluster.h	/^	int mapNum;$/;"	m	struct:_cluster
+next	linked_list.h	/^	struct list * next;$/;"	m	struct:list	typeref:struct:list::list
+source	edge.h	/^	struct _vertex * source;$/;"	m	struct:_edge	typeref:struct:_edge::_vertex
+target	edge.h	/^	struct _vertex * target;$/;"	m	struct:_edge	typeref:struct:_edge::_vertex
+vertMatrix	cluster.h	/^	floatType * vertMatrix;$/;"	m	struct:_cluster
+vertexId	vmap.h	/^	int vertexId;$/;"	m	struct:_vmap
+vertex_map	cluster.h	/^  	std::forward_list<Vmap> * vertex_map;$/;"	m	struct:_cluster
+verticies	cluster.h	/^	std::forward_list<Vertex> * verticies;$/;"	m	struct:_cluster
+weight	edge.h	/^	float weight;$/;"	m	struct:_edge
+weight	vertex.h	/^	double weight;$/;"	m	struct:_vertex

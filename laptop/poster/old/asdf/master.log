@@ -1,0 +1,115 @@
+04/09/18 11:43:59. 378764 [10424] Network: New vertex with ID: 1
+04/09/18 11:43:59. 379040 [10424] Network: New vertex with ID: 2
+04/09/18 11:43:59. 379247 [10424] Network: New vertex with ID: 3
+04/09/18 11:43:59. 379446 [10424] Network: New vertex with ID: 4
+04/09/18 11:43:59. 379644 [10424] Network: New vertex with ID: 5
+04/09/18 11:43:59. 379840 [10424] Network: New vertex with ID: 6
+04/09/18 11:43:59. 380036 [10424] Network: New vertex with ID: 7
+04/09/18 11:43:59. 380232 [10424] Network: New vertex with ID: 8
+04/09/18 11:43:59. 380429 [10424] Network: New vertex with ID: 9
+04/09/18 11:43:59. 380625 [10424] Network: New vertex with ID: 10
+04/09/18 11:43:59. 380821 [10424] Network: New vertex with ID: 11
+04/09/18 11:43:59. 381017 [10424] Network: New vertex with ID: 12
+04/09/18 11:43:59. 381213 [10424] Network: New vertex with ID: 13
+04/09/18 11:43:59. 381422 [10424] Network: Added new edge connecting vertexs source: 1 and target: 2 with weight 0.688977
+04/09/18 11:43:59. 381623 [10424] Network: Added new edge connecting vertexs source: 1 and target: 3 with weight 0.723245
+04/09/18 11:43:59. 381823 [10424] Network: Added new edge connecting vertexs source: 1 and target: 4 with weight 0.708021
+04/09/18 11:43:59. 382022 [10424] Network: Added new edge connecting vertexs source: 1 and target: 5 with weight 0.710749
+04/09/18 11:43:59. 382229 [10424] Network: Added new edge connecting vertexs source: 3 and target: 7 with weight 0.710943
+04/09/18 11:43:59. 382443 [10424] Network: Added new edge connecting vertexs source: 3 and target: 2 with weight 0.720681
+04/09/18 11:43:59. 382646 [10424] Network: Added new edge connecting vertexs source: 3 and target: 4 with weight 0.694783
+04/09/18 11:43:59. 382844 [10424] Network: Added new edge connecting vertexs source: 3 and target: 5 with weight 0.701475
+04/09/18 11:43:59. 382979 [10424] Network: Added new edge connecting vertexs source: 4 and target: 5 with weight 0.750999
+04/09/18 11:43:59. 383114 [10424] Network: Added new edge connecting vertexs source: 5 and target: 8 with weight 0.680171
+04/09/18 11:43:59. 383248 [10424] Network: Added new edge connecting vertexs source: 6 and target: 7 with weight 0.751709
+04/09/18 11:43:59. 383383 [10424] Network: Added new edge connecting vertexs source: 6 and target: 2 with weight 0.730671
+04/09/18 11:43:59. 383518 [10424] Network: Added new edge connecting vertexs source: 7 and target: 2 with weight 0.764174
+04/09/18 11:43:59. 383653 [10424] Network: Added new edge connecting vertexs source: 8 and target: 11 with weight 0.702837
+04/09/18 11:43:59. 383787 [10424] Network: Added new edge connecting vertexs source: 8 and target: 12 with weight 0.694418
+04/09/18 11:43:59. 383922 [10424] Network: Added new edge connecting vertexs source: 9 and target: 8 with weight 0.748643
+04/09/18 11:43:59. 384056 [10424] Network: Added new edge connecting vertexs source: 9 and target: 10 with weight 0.747573
+04/09/18 11:43:59. 384194 [10424] Network: Added new edge connecting vertexs source: 10 and target: 8 with weight 0.768898
+04/09/18 11:43:59. 384330 [10424] Network: Added new edge connecting vertexs source: 10 and target: 11 with weight 0.704534
+04/09/18 11:43:59. 384465 [10424] Network: Added new edge connecting vertexs source: 10 and target: 12 with weight 0.696408
+04/09/18 11:43:59. 384600 [10424] Network: Added new edge connecting vertexs source: 11 and target: 12 with weight 0.763388
+04/09/18 11:43:59. 384734 [10424] Network: Added new edge connecting vertexs source: 13 and target: 11 with weight 0.700271
+04/09/18 11:43:59. 384869 [10424] Network: Added new edge connecting vertexs source: 13 and target: 12 with weight 0.695595
+04/09/18 11:43:59. 385003 [10424] Malformed gml file
+04/09/18 11:43:59. 385138 [10424] Cluster 0: Added new vertex 1
+04/09/18 11:43:59. 385272 [10424] Cluster 0: Added new vertex 2
+04/09/18 11:43:59. 385405 [10424] Cluster 0: Added new vertex 3
+04/09/18 11:43:59. 385537 [10424] Cluster 0: Added new vertex 4
+04/09/18 11:43:59. 385670 [10424] Cluster 0: Added new vertex 5
+04/09/18 11:43:59. 385803 [10424] Cluster 0: Added new vertex 6
+04/09/18 11:43:59. 385941 [10424] Cluster 0: Added new vertex 7
+04/09/18 11:43:59. 386075 [10424] Cluster 0: Added new vertex 8
+04/09/18 11:43:59. 386208 [10424] Cluster 0: Added new vertex 11
+04/09/18 11:43:59. 386347 [10424] Cluster 0: Added new vertex 12
+04/09/18 11:43:59. 386482 [10424] Cluster 0: Added new vertex 9
+04/09/18 11:43:59. 386615 [10424] Cluster 0: Added new vertex 10
+04/09/18 11:43:59. 386748 [10424] Cluster 0: Added new vertex 13
+04/09/18 11:43:59. 386900 [10424] Network: Making clusters
+04/09/18 11:43:59. 387096 [10424] Cluster 1: Added new vertex 1
+04/09/18 11:43:59. 387237 [10424] Cluster 1: Added new vertex 2
+04/09/18 11:43:59. 387393 [10424] Cluster 1: Added new vertex 3
+04/09/18 11:43:59. 387537 [10424] Cluster 1: Added new vertex 4
+04/09/18 11:43:59. 387670 [10424] Cluster 1: Added new vertex 5
+04/09/18 11:43:59. 387832 [10424] Cluster 2: Added new vertex 6
+04/09/18 11:43:59. 387968 [10424] Cluster 2: Added new vertex 7
+04/09/18 11:43:59. 388143 [10424] Cluster 3: Added new vertex 8
+04/09/18 11:43:59. 388287 [10424] Cluster 3: Added new vertex 11
+04/09/18 11:43:59. 388420 [10424] Cluster 3: Added new vertex 12
+04/09/18 11:43:59. 388552 [10424] Cluster 3: Added new vertex 9
+04/09/18 11:43:59. 388684 [10424] Cluster 3: Added new vertex 10
+04/09/18 11:43:59. 388832 [10424] Cluster 4: Added new vertex 13
+04/09/18 11:43:59. 388966 [10424] Cluster 4: Added new vertex 11
+04/09/18 11:43:59. 389115 [10424] Cluster 4: Added new vertex 12
+04/09/18 11:43:59. 389255 [10424] Cluster 4: Added new vertex 8
+04/09/18 11:43:59. 389388 [10424] Cluster 4: Added new vertex 10
+04/09/18 11:43:59. 389521 [10424] Cluster 4: Added new vertex 5
+04/09/18 11:43:59. 389654 [10424] Cluster 4: Added new vertex 9
+04/09/18 11:43:59. 389786 [10424] Cluster 4: Added new vertex 1
+04/09/18 11:43:59. 389919 [10424] Cluster 4: Added new vertex 3
+04/09/18 11:43:59. 390052 [10424] Cluster 4: Added new vertex 4
+04/09/18 11:43:59. 390184 [10424] Cluster 4: Added new vertex 2
+04/09/18 11:43:59. 390324 [10424] Cluster 4: Added new vertex 7
+04/09/18 11:43:59. 390459 [10424] Cluster 4: Added new vertex 6
+04/09/18 11:43:59. 390652 [10424] Cluster 5: Added new vertex 1
+04/09/18 11:43:59. 390786 [10424] Cluster 5: Added new vertex 2
+04/09/18 11:43:59. 390919 [10424] Cluster 5: Added new vertex 3
+04/09/18 11:43:59. 391051 [10424] Cluster 5: Added new vertex 4
+04/09/18 11:43:59. 391184 [10424] Cluster 5: Added new vertex 5
+04/09/18 11:43:59. 391316 [10424] Cluster 5: Added new vertex 6
+04/09/18 11:43:59. 391449 [10424] Cluster 5: Added new vertex 7
+04/09/18 11:43:59. 391581 [10424] Cluster 5: Added new vertex 8
+04/09/18 11:43:59. 391714 [10424] Cluster 5: Added new vertex 11
+04/09/18 11:43:59. 391846 [10424] Cluster 5: Added new vertex 12
+04/09/18 11:43:59. 391979 [10424] Cluster 5: Added new vertex 9
+04/09/18 11:43:59. 392122 [10424] Cluster 5: Added new vertex 10
+04/09/18 11:43:59. 392260 [10424] Cluster 5: Added new vertex 13
+04/09/18 11:43:59. 392481 [10424] Cluster 6: Added new vertex 6
+04/09/18 11:43:59. 392615 [10424] Cluster 6: Added new vertex 7
+04/09/18 11:43:59. 392747 [10424] Cluster 6: Added new vertex 2
+04/09/18 11:43:59. 392879 [10424] Cluster 6: Added new vertex 3
+04/09/18 11:43:59. 393012 [10424] Cluster 6: Added new vertex 1
+04/09/18 11:43:59. 393144 [10424] Cluster 6: Added new vertex 4
+04/09/18 11:43:59. 393276 [10424] Cluster 6: Added new vertex 5
+04/09/18 11:43:59. 393409 [10424] Cluster 6: Added new vertex 8
+04/09/18 11:43:59. 393541 [10424] Cluster 6: Added new vertex 11
+04/09/18 11:43:59. 393673 [10424] Cluster 6: Added new vertex 12
+04/09/18 11:43:59. 393805 [10424] Cluster 6: Added new vertex 9
+04/09/18 11:43:59. 393938 [10424] Cluster 6: Added new vertex 10
+04/09/18 11:43:59. 394070 [10424] Cluster 6: Added new vertex 13
+04/09/18 11:43:59. 394281 [10424] Cluster 7: Added new vertex 8
+04/09/18 11:43:59. 394423 [10424] Cluster 7: Added new vertex 5
+04/09/18 11:43:59. 394557 [10424] Cluster 7: Added new vertex 11
+04/09/18 11:43:59. 394689 [10424] Cluster 7: Added new vertex 12
+04/09/18 11:43:59. 394829 [10424] Cluster 7: Added new vertex 9
+04/09/18 11:43:59. 394959 [10424] Cluster 7: Added new vertex 10
+04/09/18 11:43:59. 395084 [10424] Cluster 7: Added new vertex 1
+04/09/18 11:43:59. 395208 [10424] Cluster 7: Added new vertex 3
+04/09/18 11:43:59. 395333 [10424] Cluster 7: Added new vertex 4
+04/09/18 11:43:59. 395457 [10424] Cluster 7: Added new vertex 13
+04/09/18 11:43:59. 395582 [10424] Cluster 7: Added new vertex 2
+04/09/18 11:43:59. 395706 [10424] Cluster 7: Added new vertex 7
+04/09/18 11:43:59. 395833 [10424] Cluster 7: Added new vertex 6
